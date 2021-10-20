@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Board.qml</file>
+        <file>Cell.qml</file>
+        <file>CheckMateDialog.qml</file>
+        <file>DrawGameDialog.qml</file>
+        <file>TransformDialog.qml</file>
+        <file>TransformRadioButton.qml</file>
+        <file>UndoBtn.qml</file>
+        <file>img/bishop-black.png</file>
+        <file>img/bishop-white.png</file>
+        <file>img/castle-black.png</file>
+        <file>img/castle-white.png</file>
+        <file>img/king-black.png</file>
+        <file>img/king-white.png</file>
+        <file>img/knight-black.png</file>
+        <file>img/knight-white.png</file>
+        <file>img/pawn-black.png</file>
+        <file>img/pawn-white.png</file>
+        <file>img/queen-black.png</file>
+        <file>img/queen-white.png</file>
+        <file>img/empty.png</file>
+        <file>img/icon16x16.png</file>
+        <file>img/icon22x22.png</file>
+        <file>img/icon32x32.png</file>
+        <file>img/icon48x48.png</file>
+        <file>img/icon64x64.png</file>
+        <file>img/icon128x128.png</file>
+        <file>img/icon256x256.png</file>
+        <file>img/undo.png</file>
+        <file>img/undo_disabled.png</file>
+        <file>img/undo_clicked.png</file>
+    </qresource>
+</RCC>
